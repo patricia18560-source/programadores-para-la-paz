@@ -1,0 +1,2 @@
+Es fundamental que las comunidades y grupos ciudadanos creen sus propias herramientas con tecnologías abiertas como Node.js, porque esto les da autonomía y libertad. Al ser código abierto, no dependen de empresas externas ni de licencias costosas, lo que elimina barreras económicas y de acceso.
+Además, pueden adaptar las soluciones exactamente a sus necesidades, resolviendo problemas reales de su entorno. Estas tecnologías fomentan la colaboración: cualquier persona puede mejorar, compartir o modificar el código, creando soluciones más inclusivas y seguras.

@@ -1,0 +1,11 @@
+Pregunta 1: ¿Cuál es la función principal de la terminal?
+Respuesta: B. Ejecutar comandos
+
+Pregunta 2: ¿Qué hace pwd?
+Respuesta: B. Muestra ubicación actual
+
+Pregunta 3: ¿Comando para ver archivos?
+Respuesta: C. ls
+
+Pregunta 4: ¿Comando para crear carpeta?
+Respuesta: mkdir

@@ -1,0 +1,8 @@
+Repositorio
+Es el espacio donde se guardan todos los archivos del proyecto junto con el historial completo de cambios realizados. Funciona como una carpeta inteligente que permite controlar versiones y acceder a cualquier estado del desarrollo en cualquier momento.
+
+Commit
+Es la acción de guardar un conjunto de cambios con un mensaje que describe qué se modificó y por qué. Representa una versión específica del proyecto, creando un punto fijo en la historia al que se puede volver o consultar después.
+
+Push
+Es el comando que envía los cambios guardados en tu equipo local hacia el repositorio remoto, como en GitHub o GitLab. De esta forma, se actualiza el proyecto central y todos los miembros del equipo pueden ver y acceder a tus aportes.

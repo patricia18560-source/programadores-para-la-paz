@@ -1,0 +1,1 @@
+Saber usar la terminal es fundamental para cualquier desarrollador, ya que permite trabajar rápido, controlar archivos y usar herramientas como Git. Es necesario para servidores y entornos profesionales sin interfaz gráfica. Da control, velocidad y es habilidad básica de todo programador.
